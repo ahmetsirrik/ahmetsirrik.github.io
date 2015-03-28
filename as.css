@@ -1,0 +1,26 @@
+
+		body {
+
+			background-color: grey;
+			background-image: url("https://hoopsndream.files.wordpress.com/2015/02/635595490453065957-2015-02-14-stephen-curry1.jpg?w=1200");
+			background-size: cover;
+			margin:50px;
+			display:block;
+
+
+		}
+		p{
+			color:white;
+		}
+		#myid{
+			color:white;
+		}
+		.media {
+			color:blue;
+		}
+		h3{
+			color:gold;
+		}
+		#meek{ color:orange;}
+	
+
